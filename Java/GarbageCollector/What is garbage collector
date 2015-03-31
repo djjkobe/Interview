@@ -1,0 +1,1 @@
+ In the JVM architecture, two main components that are related to garbage collection are heap memory and garbage collector. Heap memory is the runtime data area where the instances will be store and the garbage collector will operate on.
