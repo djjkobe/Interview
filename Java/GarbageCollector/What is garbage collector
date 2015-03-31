@@ -1,3 +1,4 @@
+ 
  In the JVM architecture, two main components that are related to garbage collection are heap memory and garbage collector. Heap memory is the runtime data area where the instances will be store and the garbage collector will operate on.
  It is essential to understand the role of heap memory in JVM memory model. At runtime the Java instances are stored in the heap memory area. When an object is not referenced anymore it becomes eligible for eviction from heap memory. During garbage collection process, those objects are evicted from heap memory and the space is reclaimed. Heap memory has three major areas,
 
